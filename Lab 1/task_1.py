@@ -1,0 +1,5 @@
+print('Введите ФИО:')
+F = input()
+I = input()
+O = input()
+print( F, I[0] + "." +  O[0] + '.')
